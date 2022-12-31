@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1672497603222,
+  "timestamp": 1672499925368,
   "index": "/car-counter/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/car-counter/favicon.ico",
         "/car-counter/index.html",
-        "/car-counter/main.bbbf5a74ac305076.js",
+        "/car-counter/main.08738928979b00d8.js",
         "/car-counter/manifest.webmanifest",
         "/car-counter/polyfills.5bd3fc3c3e88783f.js",
         "/car-counter/runtime.b738e70e74404057.js",
@@ -52,8 +52,8 @@
     "/car-counter/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/car-counter/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/car-counter/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/car-counter/index.html": "9f04eb6bacabf3a671a5d14abcabe5fe60e2b0e8",
-    "/car-counter/main.bbbf5a74ac305076.js": "27f3f80958d85d84de173f69a87d278f1fca764d",
+    "/car-counter/index.html": "45ecf56a34b60c018c7c896b16084ffccb53c852",
+    "/car-counter/main.08738928979b00d8.js": "d351b9dbc049da4f1ab724c019f287f0ce354d6f",
     "/car-counter/manifest.webmanifest": "b278ecbe591c9b3941c7f66294fa1d1edb77a790",
     "/car-counter/polyfills.5bd3fc3c3e88783f.js": "463665636604d77d8018ed6af30dd195bb06d77a",
     "/car-counter/runtime.b738e70e74404057.js": "228a4bf10031ca31ea1e0925b1152acd062cd90e",
