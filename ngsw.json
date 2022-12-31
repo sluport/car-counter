@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1672497603222,
+  "index": "/car-counter/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/car-counter/favicon.ico",
+        "/car-counter/index.html",
+        "/car-counter/main.bbbf5a74ac305076.js",
+        "/car-counter/manifest.webmanifest",
+        "/car-counter/polyfills.5bd3fc3c3e88783f.js",
+        "/car-counter/runtime.b738e70e74404057.js",
+        "/car-counter/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/car-counter/assets/icons/icon-128x128.png",
+        "/car-counter/assets/icons/icon-144x144.png",
+        "/car-counter/assets/icons/icon-152x152.png",
+        "/car-counter/assets/icons/icon-192x192.png",
+        "/car-counter/assets/icons/icon-384x384.png",
+        "/car-counter/assets/icons/icon-512x512.png",
+        "/car-counter/assets/icons/icon-72x72.png",
+        "/car-counter/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/car-counter/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/car-counter/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/car-counter/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/car-counter/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/car-counter/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/car-counter/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/car-counter/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/car-counter/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/car-counter/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/car-counter/index.html": "9f04eb6bacabf3a671a5d14abcabe5fe60e2b0e8",
+    "/car-counter/main.bbbf5a74ac305076.js": "27f3f80958d85d84de173f69a87d278f1fca764d",
+    "/car-counter/manifest.webmanifest": "b278ecbe591c9b3941c7f66294fa1d1edb77a790",
+    "/car-counter/polyfills.5bd3fc3c3e88783f.js": "463665636604d77d8018ed6af30dd195bb06d77a",
+    "/car-counter/runtime.b738e70e74404057.js": "228a4bf10031ca31ea1e0925b1152acd062cd90e",
+    "/car-counter/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
